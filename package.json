@@ -1,0 +1,38 @@
+{
+  "name": "react-alt-boilerplate",
+  "version": "0.0.1",
+  "description": "A boilerplate for Isomorphic Application using ReactJS and alt.js with webpack and babel",
+  "main": "main.jsx",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server",
+    "lint": "eslint app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edstudio/react-alt-boilerplate.git"
+  },
+  "author": "Edmund Hung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edstudio/react-alt-boilerplate/issues"
+  },
+  "homepage": "https://github.com/edstudio/react-alt-boilerplate",
+  "dependencies": {
+    "alt": "^0.16.10",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.6.15",
+    "babel-eslint": "^3.1.19",
+    "babel-loader": "^5.2.2",
+    "eslint": "^0.24.0",
+    "eslint-plugin-react": "^2.6.2",
+    "node-libs-browser": "^0.5.2",
+    "react-hot-loader": "^1.2.7",
+    "webpack": "^1.10.0",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
