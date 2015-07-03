@@ -7,7 +7,11 @@
   },
   "env": {
     "browser": true,
-    "node": true
+    "node": true,
+    "jasmine": true
+  },
+  "globals": {
+    "jest": false
   },
   "parser": "babel-eslint",
   "rules": {

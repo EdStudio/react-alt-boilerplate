@@ -2,37 +2,45 @@ EdStudio/react-alt-boilerplate
 ==============================
 A ES6 starter template for React with Alt
 
-### Installation
+## Getting Started
+
+#### Installation
 
 ```
 $ npm install
 ```
 
-### Development
+#### Development
 
 ```
 $ npm run dev
 $ open http://localhost:8080/webpack-dev-server/
 ```
 
-### Build
+#### Build
 
 ```
 $ npm run build
 ```
 
-### Dependencies
+## Dependencies
 
-* [React](https://github.com/facebook/react)
-* [Alt](https://github.com/goatslacker/alt)
-* [react-router](https://github.com/rackt/react-router)
+#### Core
+
+* [React 0.13.3](https://github.com/facebook/react)
+* [Alt 0.16.10](https://github.com/goatslacker/alt)
+* [react-router 0.13.3](https://github.com/rackt/react-router)
+
+#### Development
+
+* [jest](http://github.com/facebook/jest)
 * [Webpack](https://github.com/webpack/webpack)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
 * [babel-loader](https://github.com/babel/babel-loader)
 * [react-hot-loader](https://github.com/gaearon/react-hot-loader)
 * [eslint](https://github.com/eslint/eslint)
 
-### license
+## license
 
 The MIT License (MIT)
 

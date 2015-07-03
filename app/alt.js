@@ -1,2 +1,2 @@
-import ALT from 'alt';
-export default new ALT();
+import Alt from 'alt';
+export default new Alt();
